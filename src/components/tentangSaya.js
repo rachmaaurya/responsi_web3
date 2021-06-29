@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 
-class Beranda extends Component {
+class TentangSaya extends Component {
     render() {
         return(
             <div style={{width: '100%', margin: 'auto'}}>
@@ -36,4 +36,4 @@ class Beranda extends Component {
     }
 }
 
-export default Beranda;
+export default TentangSaya;
